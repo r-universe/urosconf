@@ -3,6 +3,10 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nlgeocoder"]
+	path = nlgeocoder
+	url = https://github.com/uRosConf/nlgeocoder
+	shallow = true
 [submodule "voronoiTreemap"]
 	path = voronoiTreemap
 	url = https://github.com/urosconf/voronoitreemap
