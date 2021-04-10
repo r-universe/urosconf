@@ -7,7 +7,9 @@
 	path = nlgeocoder
 	url = https://github.com/uRosConf/nlgeocoder
 	shallow = true
+	registered = true
 [submodule "voronoiTreemap"]
 	path = voronoiTreemap
 	url = https://github.com/urosconf/voronoitreemap
 	shallow = true
+	registered = true
