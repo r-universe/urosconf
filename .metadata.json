@@ -1,0 +1,10 @@
+[
+  {
+    "package": "nlgeocoder",
+    "oncran": false
+  },
+  {
+    "package": "voronoiTreemap",
+    "oncran": true
+  }
+]
