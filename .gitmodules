@@ -5,7 +5,7 @@
 	branch = HEAD
 [submodule "nlgeocoder"]
 	path = nlgeocoder
-	url = https://github.com/uRosConf/nlgeocoder
+	url = https://github.com/urosconf/nlgeocoder
 	shallow = true
 	registered = true
 [submodule "voronoiTreemap"]
