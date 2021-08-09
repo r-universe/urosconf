@@ -1,7 +1,6 @@
 [
   {
-    "package": "nlgeocoder",
-    "oncran": true
+    "package": "nlgeocoder"
   },
   {
     "package": "voronoiTreemap",
